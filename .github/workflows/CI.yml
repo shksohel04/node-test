@@ -1,9 +1,8 @@
 name: CI/CD
-
 on:
   push:
     branches:
-      - test-br
+      - tesst-br
 
 jobs:
   build-and-deploy:
